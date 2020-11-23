@@ -22,14 +22,14 @@ Our model will perform following:
 
 **For Detailed document, please check our complete study below :**
 
-[Document](Stock_Price_Prediction_Document.pdf)
+### [Complete Document](Stock_Price_Prediction_Document.pdf)
 
 ## The Team:
 
-**Prashant Kumar**
+[**Prashant Kumar**](https://github.com/prashant2018)
 
-**Prabudha Ghosh**
+[**Prabuddha Kumar Ghosh**]( https://github.com/PrabuddhaGhosh )
 
-**Pradeep Kumar**
+[**Pradeep Kumar**](https://github.com/kumarpradeephk)
 
 **Prince Jha**
