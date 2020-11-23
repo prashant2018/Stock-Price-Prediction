@@ -1,7 +1,12 @@
 # Stock-Price-Prediction
 
-### Predictive Analysis Of Market Trends For Stock Price Prediction Using Machine Learning and Deep Learning
+**Predictive Analysis Of Market Trends For Stock Price Prediction Using Machine Learning and Deep Learning**
+
 Predicting Stock Price using Machine Learning &amp; Deep Learning. Taking Google trends value in addition to the stock price for a particular day to get more accurate predictions.
+
+[Jupyter Notebook for ML Algorightms](https://github.com/prashant2018/Stock-Price-Prediction/blob/master/Predictive%20Analysis%20of%20Stock%20Price%20Final.ipynb)
+
+[Jupyter Notebook for Nerual Network Algorightms](https://github.com/prashant2018/Stock-Price-Prediction/blob/master/Stock%20Neural%20Networks.ipynb)
 
 ## About
 The aim of the project was to build a predictive model of market trends for stock predictions using Machine learning and Deep Learning. 
@@ -17,7 +22,7 @@ Our model will perform following:
 
 **For Detailed document, please check our complete study below :**
 
-[Document]()
+[Document](Stock_Price_Prediction_Document.pdf)
 
 ## The Team:
 
