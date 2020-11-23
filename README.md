@@ -32,4 +32,4 @@ Our model will perform following:
 
 [**Pradeep Kumar**](https://github.com/kumarpradeephk)
 
-**Prince Jha**
+[**Prince Jha**](https://github.com/princejha95)
